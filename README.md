@@ -17,7 +17,6 @@
     💻 Web Developer in progress
     🚀 Building real-world apps & solving problems with code
     📚 Engineering student @CESI
-    📍 Always learning, always building
 </div>
 
 ---
