@@ -1,7 +1,6 @@
  <div align="center">
 
-<h1>👋 Salut, je suis Yanis Khellaf</h1>
-<h3>🎓 Engineering Student @ CESI &nbsp;|&nbsp; Web &amp; Mobile Developer</h3>
+<h1>🎓 Engineering Student @ CESI &nbsp;|&nbsp; Web &amp; Mobile Developer</h1>
 
 <br/>
 
@@ -74,7 +73,7 @@
 
 ---
 
-*⭐ N'hésite pas à star mes repos si tu les trouves utiles !*
+*📈 Driven by continuous learning and clean architecture*
 
 
 </div>
