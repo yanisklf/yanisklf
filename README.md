@@ -19,7 +19,7 @@
     📚 Engineering student @ CESI
     📍 Always learning, always building
 
-    </div>
+</div>
 
 ---
 
