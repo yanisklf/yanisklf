@@ -70,10 +70,10 @@
 ---
 
 <div align="center">
-
+*📈 Driven by continuous learning and clean architecture*
 ---
 
-*📈 Driven by continuous learning and clean architecture*
+
 
 
 </div>
