@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-    💻 Web Developer in progress | Node • Flutter • SQL
+    💻 Web Developer in progress
     🚀 Building real-world apps & solving problems with code
     📚 Engineering student @CESI
     📍 Always learning, always building
