@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yanis%20Khellaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Student%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=16" width="100%"/>
@@ -18,10 +18,10 @@
 ---
 
 ## 👨‍💻 À propos de moi
-    "💻 Web Developer in progress | Node • Flutter • SQL",
-    "🚀 Building real-world apps & solving problems with code",
-    "📚 Engineering student @ CESI",
-    "📍 Always learning, always building",
+    *💻 Web Developer in progress | Node • Flutter • SQL*
+    *🚀 Building real-world apps & solving problems with code*
+    *📚 Engineering student @ CESI*
+    *📍 Always learning, always building*
 
 
 ---
