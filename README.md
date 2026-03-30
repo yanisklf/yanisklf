@@ -1,6 +1,6 @@
  <div align="center">
 
-<h1>🎓 Engineering Student @ CESI &nbsp;|&nbsp; Web &amp; Mobile Developer</h1>
+<h1>🎓 Engineering Student @CESI &nbsp;|&nbsp; Web &amp; Mobile Developer</h1>
 
 <br/>
 
@@ -16,7 +16,7 @@
 <div align="center">
     💻 Web Developer in progress | Node • Flutter • SQL
     🚀 Building real-world apps & solving problems with code
-    📚 Engineering student @ CESI
+    📚 Engineering student @CESI
     📍 Always learning, always building
 </div>
 
