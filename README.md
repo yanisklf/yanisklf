@@ -18,10 +18,10 @@
 ---
 
 ## 👨‍💻 À propos de moi
-    *💻 Web Developer in progress | Node • Flutter • SQL
+    💻 Web Developer in progress | Node • Flutter • SQL
     🚀 Building real-world apps & solving problems with code
     📚 Engineering student @ CESI
-    📍 Always learning, always building*
+    📍 Always learning, always building
 
 
 ---
