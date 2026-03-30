@@ -70,41 +70,6 @@ const yanis = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanisklf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanisklf&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yanisklf&theme=tokyonight&border_radius=12" alt="yanisklf streak stats"/>
-
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yanisklf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
-
-</div>
-
----
-
-## 🚀 Projets Notables
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 📱 **App Mobile EPAL** | Application mobile pour le port d'Alger (Port of Algiers) | Flutter · Dart · Node.js · SQL Server |
-| 🌐 **Projet Sonatrach** | Application web pour Sonatrach | HTML · CSS · JavaScript · Node.js · React |
-
----
 
 ## 📈 Activité
 
