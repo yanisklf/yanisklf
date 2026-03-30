@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+
     💻 Web Developer in progress | Node • Flutter • SQL
     🚀 Building real-world apps & solving problems with code
     📚 Engineering student @ CESI
