@@ -1,17 +1,14 @@
  <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yanis%20Khellaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Student%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<h1>👋 Salut, je suis Yanis Khellaf</h1>
+<h3>🎓 Engineering Student @ CESI &nbsp;|&nbsp; Web &amp; Mobile Developer</h3>
+
+<br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Web+Developer+in+progress;Building+real-world+apps;Flutter+%26+Node.js+Developer;3rd+Year+CS+Student+%40+CESI;Always+learning%2C+always+building..." alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=yanisklf&label=Profile%20views&color=0e75b6&style=flat" alt="yanisklf" />
 
 </div>
 
@@ -75,8 +72,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+---
 
 *⭐ N'hésite pas à star mes repos si tu les trouves utiles !*
+
 
 </div>
