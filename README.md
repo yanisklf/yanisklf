@@ -71,15 +71,6 @@ const yanis = {
 ---
 
 
-## 📈 Activité
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yanisklf&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bcad&area=true&hide_border=true" alt="activity graph"/>
-
-</div>
-
----
 
 ## 📬 Me Contacter
 
