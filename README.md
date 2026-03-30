@@ -18,25 +18,11 @@
 ---
 
 ## 👨‍💻 À propos de moi
-
-```javascript
-const yanis = {
-  name:     "Yanis Khellaf",
-  role:     "Engineering Student — 3rd Year CS @ CESI",
-  location: "Algeria 🇩🇿",
-  email:    "Yanis.khellaf2003@gmail.com",
-  
-  currentlyLearning: ["React", "Node.js", "Advanced Flutter"],
-  lookingFor:        "Opportunities & collaborations",
-  
-  bio: [
     "💻 Web Developer in progress | Node • Flutter • SQL",
     "🚀 Building real-world apps & solving problems with code",
     "📚 Engineering student @ CESI",
     "📍 Always learning, always building",
-  ]
-};
-```
+
 
 ---
 
